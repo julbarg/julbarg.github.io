@@ -303,4 +303,8 @@ h2 {
     padding-top: 0;
     padding-bottom: 0.2rem;
   }
+
+  .cv-section .skill {
+    flex-direction: column;
+  }
 }
